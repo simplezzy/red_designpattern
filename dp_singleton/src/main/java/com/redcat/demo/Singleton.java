@@ -3,7 +3,7 @@ package com.redcat.demo;
 /**
  * Created by zhiyu.zhou on 2018/2/5.
  */
-
+//http://blog.csdn.net/lovelion/article/details/7420883
 /**
  * 双重锁校验模式 双重检查锁定才能够正常达到单例效果
  */
